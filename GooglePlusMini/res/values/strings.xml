@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Google Plus Mini</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="Welcome" translatable="false">Welcome</string>
+    <string name="title_activity_profile" translatable="false">ProfileActivity</string>
+    <string name="title_section1" translatable="false">Profile</string>
+    <string name="title_section2" translatable="false">Circles</string>
+    <string name="title_activity_cricle" translatable="false">CricleActivity</string>
+    <string name="title_activity_friend_profile" translatable="false">FriendProfileActivity</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <color name="backgroundcolor">#3300FF00</color>
+
+</resources>
