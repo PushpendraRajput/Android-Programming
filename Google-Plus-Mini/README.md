@@ -41,4 +41,32 @@ Person person = plusDomains.people().get(friendId).execute();
 
 # Screenshots
 
-![picture alt](http://s4.postimg.org/mv864qoij/Screenshot_2015_04_03_03_50_56.png/ "Login Screen")
+####Login Screen
+![Login Screen](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Login%20Screen.png?raw=true "Login Screen")
+
+####Account Picker
+![Account Picker](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Account%20Picker.png?raw=true "Account Picker")
+
+####User Dashboard
+![User Dashboard](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/User%20Dashboard.png?raw=true "User Dashboard")
+
+####Circle Listing
+![Circle Listing](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Circle%20listing.png?raw=true "Circle Listing")
+
+####Select Circle
+![Circle Listing](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Select%20Circle.png?raw=true "Select Circle")
+
+####Get Friend Details
+![Get Friend Details](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Get%20Friend%20details.png?raw=true "Get Friend Details")
+
+####Circle Friend Data with Detailed Information
+![Circle Friend Data with Detailed Information](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Circle%20Friend%20Data%20with%20info.png?raw=true "Circle Friend Data with Detailed Information")
+
+####Circle Friend Data with No Information
+![Circle Friend Data with No Information Information](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Circle%20Friend%20Data%20with%20no%20info.png?raw=true "Circle Friend Data with No Information")
+
+####Email Friend
+![Email Friend](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Send%20Email%20Intent%20picker.png?raw=true "Email Friend")
+
+####Send Email
+![Send Email](https://github.com/deepmehtait/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Send%20Email.png?raw=true "Send Email")
