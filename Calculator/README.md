@@ -4,3 +4,8 @@ Simple Basic calculator application created to understand basics of UI developme
 
 # Screenshots
 
+####Screen 1
+![Screen 1](https://github.com/deepmehtait/Android-Programming/blob/master/Calculator/Screenshots/Screen1.png?raw=true "Screen 1")
+
+####Screen 2
+![Screen 2](https://github.com/deepmehtait/Android-Programming/blob/master/Calculator/Screenshots/Screen2.png?raw=true "Screen 2")
